@@ -1,4 +1,4 @@
-**Custom 3D Rendering Engine for Models and Mathematical Functions**
+## Custom 3D Rendering Engine for Models and Mathematical Functions
 
 A from-scratch 3D rendering engine written in Java, supporting both polygonal 3D models and mathematical function visualisation.
 This project implements a complete graphics pipeline using linear algebra principles and a modular object-oriented architecture.
